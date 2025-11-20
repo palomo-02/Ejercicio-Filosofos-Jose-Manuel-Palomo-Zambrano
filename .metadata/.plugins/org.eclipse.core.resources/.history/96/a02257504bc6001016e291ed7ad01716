@@ -1,0 +1,12 @@
+package com.example.jar.con.web.controlador;
+@RestController
+public class controlador {
+
+	
+	
+	
+	public int suma;
+	
+	
+	
+}
