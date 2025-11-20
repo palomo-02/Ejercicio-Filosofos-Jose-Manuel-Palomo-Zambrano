@@ -1,9 +1,5 @@
 package main;
 
-/**
- * Punto de entrada de la aplicación. Crea N filósofos y un monitor
- * compartido para coordinar el acceso a los recursos (tenedores).
- */
 public final class CenaFilosofos {
 
     private CenaFilosofos() {
